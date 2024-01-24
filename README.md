@@ -1,3 +1,3 @@
-- I'm capta1nseal
-- I like games and game development
-- I also like free stuff
+- Studying in Finland
+- Sporadically making fun little projects
+- Currently just programming to learn and make something cool
